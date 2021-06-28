@@ -1,7 +1,11 @@
 title: Marko Gašparec # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <b> Programming skills: </b>
+  Location: Zagreb, Croatia
+  Date of birth: 27th Aprtil 1997.
+  Age: 24
+  <br><br>
+   <b> Programming skills: </b>
   <br>
   - Unity C#
   <br>
@@ -14,9 +18,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   - Make Human
   <br>
   - Sweet Home 3d
-  <br><br>
-  Second description
-  <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
