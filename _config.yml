@@ -7,12 +7,19 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
    <b> Programming skills: </b>
   <br>
-  - Unity C#
+  - C#
   <br>
-  - HTML5
+  <b> Game Engines: </b>
   <br>
-  <b> Software: </b>
+  <b> Database: </b>
+  <br>
+  - Firebase
+  <br> 
+  <b> Digital Art </b>
+  <br>
   - paint.net
+  <br>
+  <b> 3D Modeling and Animations </b>
   <br>
   - Mixamo
   <br>
@@ -21,6 +28,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   - Make Human
   <br>
   - Sweet Home 3d
+  <br>
+  <b> Other Software <b>
+  <br> 
+  Github
   <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
