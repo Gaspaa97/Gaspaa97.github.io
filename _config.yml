@@ -1,9 +1,21 @@
 title: Marko Gašparec # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <b> Programming skills: </b>
+  <br>
+  - Unity C#
+  <br>
+  - paint.net
+  <br>
+  Mixamo
+  <br>
+  Fuse
+  <br>
+  Make Human
+  <br>
+  Sweet Home 3d
   <br><br>
-  Second description 
+  Second description
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
